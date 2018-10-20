@@ -1,9 +1,9 @@
 # Rings
 
-![rings](images/b8730a44377671.5bbe1efdd75fa.gif)
+![rings](/images/b8730a44377671.5bbe1efdd75fa.gif)
 Source: Sonia Delaunay inspired ring animation but Aleš Brce [https://www.behance.net/gallery/44377671/SONIA-DELAUNAY-130](https://www.behance.net/gallery/44377671/SONIA-DELAUNAY-130)
 
-# The code
+## The code
 
 ```javascript
 var canvasWidth = 400;
@@ -60,5 +60,5 @@ function drawYellowSquare() {
 
 ## My attempt
 
-![My](rings.gif)
+![My](/images/rings.gif)
 potential improvements would be to get the rings to change their order so the rings pass infront of each other
