@@ -1,2 +1,9 @@
 # p5-adventures
-Document my attempts to recreate geometric gifs
+
+Document my attempts to recreate geometric gifs, I am very open if you feel the code snippets can be improved
+
+## Rings
+
+![rings](images/b8730a44377671.5bbe1efdd75fa.gif)
+Source: Sonia Delaunay inspired ring animation but Aleš Brce [https://www.behance.net/gallery/44377671/SONIA-DELAUNAY-130](https://www.behance.net/gallery/44377671/SONIA-DELAUNAY-130)
+[rings](rings.md)
